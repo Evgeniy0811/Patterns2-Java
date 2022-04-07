@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/0y5f7q67sh9wi3nb?svg=true)](https://ci.appveyor.com/project/Evgeniy0811/patterns2-java)
+[![Build status](https://ci.appveyor.com/api/projects/status/qo78hv6ljw5jgojg?svg=true)](https://ci.appveyor.com/project/Evgeniy0811/patterns2-java-jf2q5)
 
 # 2.3. Patterns 2
 Время, затраченное на ручное тестирование (минут): 60
